@@ -7,6 +7,4 @@ git hub link
 
 2017076065(차서은) : https://github.com/helloseoeun/opensource_project
 
-2017037061(왕소림)
-
 2016038027(박재성) : https://github.com/qkrwotjd1731/open_source_project
